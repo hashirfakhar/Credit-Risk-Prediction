@@ -25,8 +25,8 @@ The goal of this task is to predict whether a loan applicant is likely to repay 
 
 ## Results and Insights
 - Both models were successfully trained to classify applicants based on features like income, credit history, and property area
-- Logistic Regression achieved an accuracy of **X%**
-- Decision Tree achieved an accuracy of **Y%**
+- Logistic Regression achieved an accuracy of **78%**
+- Decision Tree achieved an accuracy of **64%**
 - The most influential features appeared to be:
   - Credit History
   - Total Income
